@@ -2,7 +2,7 @@
 This project is the analysis of the data available for Cocoa Bean Imports from years 2015-2019. The data was taken from https://data.world/makeovermonday/2020w52.
 This data has a data of amount of Cocoa Beans imported by three regions. Asia & Oceania Regions, Americas and Europe over the years.
 
-##In this project I have worked on three visualizations.##
+In this project I have worked on three visualizations.
 
 ***1. This visualization gives us the direct comparison of the amount of Cocoa Bean imported in each year.***
 
