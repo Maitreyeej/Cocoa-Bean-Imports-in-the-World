@@ -6,10 +6,13 @@ This data has a data of amount of Cocoa Beans imported by three regions. Asia & 
 
 **1. This visualization gives us the direct comparison of the amount of Cocoa Bean imported in each year.**
 
+![Unknown-3](https://user-images.githubusercontent.com/31748299/117650856-126ea400-b146-11eb-8b57-bdaf9951d3ee.png)
+
 **2. This visualization gives us the individual percent share of each region for the total import of the Cocoa Beans in all the years.**
 
 ![Unknown-2](https://user-images.githubusercontent.com/31748299/117649825-d2f38800-b144-11eb-95db-4c129d4a103b.png)
 
-
 **3. This visualization gives us the trend of overall Cocoa Bean imports of the world for combined regions.**
+
+![Unknown-4](https://user-images.githubusercontent.com/31748299/117650910-21eded00-b146-11eb-947e-0e6042016614.png)
 
